@@ -1,0 +1,62 @@
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\appsettings.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.staticwebassets.runtime.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.exe
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.deps.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.runtimeconfig.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\bin\Debug\net7.0\SefaPortfolyo.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.AssemblyInfoInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.AssemblyInfo.cs
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.csproj.CoreCompileInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.RazorAssemblyInfo.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.RazorAssemblyInfo.cs
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets\msbuild.SefaPortfolyo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets\msbuild.build.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\scopedcss\bundle\SefaPortfolyo.styles.css
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\scopedcss\projectbundle\SefaPortfolyo.bundle.scp.css
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\refint\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\SefaPortfolyo.genruntimeconfig.cache
+C:\Users\sefaa\OneDrive\Masaüstü\SefaPortfolyo\obj\Debug\net7.0\ref\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\appsettings.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.staticwebassets.runtime.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.exe
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.deps.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.runtimeconfig.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\bin\Debug\net7.0\SefaPortfolyo.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.csproj.AssemblyReference.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.AssemblyInfoInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.AssemblyInfo.cs
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.csproj.CoreCompileInputs.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.RazorAssemblyInfo.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.RazorAssemblyInfo.cs
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets\msbuild.SefaPortfolyo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets\msbuild.build.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SefaPortfolyo.props
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\scopedcss\bundle\SefaPortfolyo.styles.css
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\scopedcss\projectbundle\SefaPortfolyo.bundle.scp.css
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\refint\SefaPortfolyo.dll
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.pdb
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\SefaPortfolyo.genruntimeconfig.cache
+C:\Users\sefaa\OneDrive\Masaüstü\2022512004 - CELAL SAFA AKSU\obj\Debug\net7.0\ref\SefaPortfolyo.dll

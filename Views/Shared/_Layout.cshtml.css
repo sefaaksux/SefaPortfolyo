@@ -1,0 +1,80 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+#container {
+  /* background-color: #f5f5f5;
+  border: 1px solid rgb(9, 7, 7);
+  border-radius: 3%; */
+  width: 1706px;
+  height: 783px;
+  flex-shrink: 0;
+  border-radius: 60px;
+  border: 0px solid #000;
+  background: linear-gradient(180deg, rgba(0, 135, 211, 0.80) 0%, rgba(194, 116, 0, 0.32) 100%);
+  box-shadow: 16px 16px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#navv{
+  border-radius: 30px;
+background: rgba(0, 124, 193, 0.21);
+box-shadow: 4px 6px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.imagem{
+  margin-top: 40px;
+  width: 684px;
+  height: 688px;
+  flex-shrink: 0;
+  border-radius: 688px;
+  box-shadow: 10px 10px 4px 0px rgba(0, 0, 0, 0.25);  
+}
+
+.imagem img{
+  width: 100%; /* Resmi div genişliğine sığdır */
+  height: 100%; /* Resmi div yüksekliğine sığdır */
+  object-fit: cover; /* Resmi orantılı şekilde sığdır ve kırpma */
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

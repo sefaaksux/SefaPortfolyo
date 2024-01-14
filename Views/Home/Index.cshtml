@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+
+<H1 style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">CELAL SAFA AKSU</H1> <br>
+<p style="font-size: 20px; font-family:Verdana, Geneva, Tahoma, sans-serif">Çukurova Üniversitesi - Bilgisayar Programcılığı / 2022512004</p> 
+
+<a  asp-controller="Home" asp-action="Iletisim"><button class="btn btn-primary">İLETİŞİM</button></a>
+
+@section Scripts{
+    <script>
+        document.getElementById('scrollButton').addEventListener('click',function(){
+            window.scrollTo({
+                top:document.body.scrollHeight, behavior: 'smooth', duration:2000
+            });
+        });
+    </script>
+}
